@@ -1,7 +1,7 @@
 # multi-cloud-aws-gcp--terraform-deployment
 This project demonstrates the process and best practices of deploying a container application with Google Kubernetes Engine (GKE) in Google Cloud Platform (GCP) and Amazon Web Services (AWS) using Terraform and multi-cloud architecture.
 
-### The project includes the following steps:
+### The project includes the following steps: 
 
 ![architecture](https://github.com/Phosters/multi-cloud-aws-gcp--terraform-deployment/assets/94114815/b4bfa1f4-e38f-46f8-8854-fd9abc6740b6)
 
